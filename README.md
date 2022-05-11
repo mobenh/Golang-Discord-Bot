@@ -1,6 +1,5 @@
-# Golang MongoDB CRUD API
-This is a project with Golang APIs that access and modify a Mongo database. It can create user data, get and delete them.
-
+# Golang Discord Bot
+This is a Golang project with a Discord bot that replies pong when someone types ping.
 
 ## Technologies Used
 * Golang
@@ -11,7 +10,7 @@ This is a project with Golang APIs that access and modify a Mongo database. It c
 * Install Go - https://go.dev/doc/install
 * Install Discord - https://discord.com/download
 * Create Discord account
-* Create a server and be admin of that server
+  * Create a server and be admin of that server
 
 ## Executing program
 * Create an App
