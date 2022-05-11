@@ -36,6 +36,6 @@ cd Golang-MongoDB
 ```
 go run main.go
 ```
-* Ping-bot on discord type ping and the bot should reply with pong
+* Message Ping-bot on discord by typing ping and the bot should reply with pong
 
 ![image](https://user-images.githubusercontent.com/96225596/167956170-9028225f-41f6-4f71-9d70-7ed4309447f2.png)
