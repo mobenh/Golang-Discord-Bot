@@ -25,13 +25,13 @@ This is a Golang project with a Discord bot that replies pong when someone types
 * Authorize app to server using this link with your application id in place of +++++ - https://discord.com/oauth2/authorize?client_id= +++++ &scope=bot
 ![image](https://user-images.githubusercontent.com/96225596/167951891-95de95bb-3f08-46e8-b4a7-9dbfbaff4bc2.png)
 ![image](https://user-images.githubusercontent.com/96225596/167952205-0537ab9b-ca37-405d-9d09-7c0f8ab84a83.png)
-* Put token in config.json file
-![image](https://user-images.githubusercontent.com/96225596/167955380-dd395bb9-fd40-4bd5-83fe-e0f259392660.png)
 * Download the repository to your computer and go to project file
 ```
 git clone https://github.com/mobenh/Golang-MongoDB
 cd Golang-MongoDB
 ```
+* Put token in config.json file
+![image](https://user-images.githubusercontent.com/96225596/167955380-dd395bb9-fd40-4bd5-83fe-e0f259392660.png)
 * Run code
 ```
 go run main.go
